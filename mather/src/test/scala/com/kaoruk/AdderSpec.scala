@@ -1,4 +1,5 @@
-import com.kaoruk.Adder
+package com.kaoruk
+
 import org.scalatest.FlatSpec
 import org.scalatest.Matchers._
 
