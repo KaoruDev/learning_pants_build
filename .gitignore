@@ -1,0 +1,7 @@
+.DS_Store
+
+pants
+.pants.d
+dist
+.pids
+.pants.workdir.file_lock
